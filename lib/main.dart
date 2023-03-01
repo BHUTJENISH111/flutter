@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:project1/bottom_navigation_bar.dart';
+import 'package:project1/bottom_nevigation_bar.dart';
+
 void main() {
   runApp(const MyApp());
 }
